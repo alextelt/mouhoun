@@ -1,8 +1,8 @@
 # baseURL = "https://your_domain.com/"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "fr"
+defaultContentLanguage = "fr"
 
-title = "Coucou toi"
+title = "Sarah Mouhoun"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
@@ -29,7 +29,7 @@ disableKinds = ["taxonomy", "term"]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+    { instagram = "https://instagram.com/sarah" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
