@@ -1,6 +1,6 @@
 # baseURL = "https://your_domain.com/"
-languageCode = "fr"
-defaultContentLanguage = "fr"
+languageCode = "en"
+defaultContentLanguage = "en"
 
 title = "Sarah Mouhoun"
 # copyright = "Copy, _right?_ :thinking_face:"
